@@ -48,3 +48,4 @@ Thumbs.db
 # Misc
 *.bak
 .env
+.env # Ensure it’s ignored in future commits
